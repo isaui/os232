@@ -1,5 +1,16 @@
-ZCZC W02 100 L12 Assignment #02
-ZCZC W02 20 L07 Demo related
-ZCZC W02 75 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W02 20 L26 GnuPG, key-gen, encrypt/decrypt
-ZCZC W02 90 L02 CLASSROOM meetings
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://github.com/isaui/os232/blob/main/TXT/mylog.txt
+ZCZC W00 20 L00 General, etc.
+ZCZC W00 20 L01 SCELE/Discord related
+ZCZC W00 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 10 L03 GitHub related
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 10 L05 QUIZ
+ZCZC W00 60 L09 Weekly Assignments
+ZCZC W01  20 L00 General, etc.
+ZCZC W01  20 L01 SCELE/Discord related
+ZCZC W01  90 L02 ZOOM meetings related
+ZCZC W01  10 L03 GitHub related
+ZCZC W01  10 L04 GitHub Pages related
+ZCZC W01  10 L05 QUIZ
