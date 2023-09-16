@@ -1,0 +1,4 @@
+# WEEKLY 3 of 10 RANKS
+ZCZC W02 [Operating System Security](https://www.geeksforgeeks.org/operating-system-security/)
+ZCZC W02 [L70: Protection & Security Introduction | Goals of Protection | Domains of Protection](https://www.youtube.com/watch?v=uFIzD1k5S5U)
+ZCZC W02 [L73: Program Threats (Trapdoors), System Threats (Worms, Virus) in Operating System](https://www.youtube.com/watch?v=f5v9fdcRe_E)
