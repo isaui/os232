@@ -1,6 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode: https://github.com/isaui/os232/blob/main/TXT/mylog.txt
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 20 L00 General, etc.
 ZCZC W00 20 L01 SCELE/Discord related
 ZCZC W00 99 L02 CLASSROOM/ZOOM meetings related
@@ -14,3 +14,13 @@ ZCZC W01  90 L02 ZOOM meetings related
 ZCZC W01  10 L03 GitHub related
 ZCZC W01  10 L04 GitHub Pages related
 ZCZC W01  10 L05 QUIZ
+ZCZC W03 200 L02 CLASSROOM meetings related
+ZCZC W03 75 L03 GitHub and git related
+ZCZC W03 10 L04 GitHub Pages related
+ZCZC W03 180 L05 Quiz related including studying
+ZCZC W03 75 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 300 L12 Assignment #02
+ZCZC W03 10 L41 TXT/mylog.txt related
+ZCZC W03 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W03 5 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W03 5 L45 TXT/SHA256SUM related
