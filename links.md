@@ -22,8 +22,6 @@ the video explains the fundamental concepts of the file system in Linux. We will
 This video serves as a comprehensive tutorial on FUSE (File System in Userspace). Dive into the world of user-level file systems, exploring how FUSE allows us to create custom file systems without kernel-level modifications. 
 * [Recording Week04: File System & FUSE](https://www.youtube.com/watch?v=PBkZynNIZWk) ---
 The video delves into the concepts of file systems and FUSE (File System in Userspace).
-<br>
-<hr>
 
 W04
 * [Lecture 11: Memory Management](https://www.youtube.com/watch?v=lEG71DDLD9E) ---
