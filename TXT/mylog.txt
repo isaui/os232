@@ -24,3 +24,11 @@ ZCZC W03 10 L41 TXT/mylog.txt related
 ZCZC W03 20 L43 TXT/myrank.tex related, including peer review.
 ZCZC W03 5 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W03 5 L45 TXT/SHA256SUM related
+ZCZC W04 30 L00 General, etc.
+ZCZC W04 35 L01 SCELE/Discord related
+ZCZC W04 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 20 L03 GitHub related
+ZCZC W04 10 L04 GitHub Pages related
+ZCZC W04 10 L05 QUIZ
+ZCZC W04 60 L09 Weekly Assignments
+ZCZC W04 30 L00 General, etc.
