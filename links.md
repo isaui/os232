@@ -32,3 +32,5 @@ Video 1 jam 15 menit yang menjelaskan memory management dalam sistem operasi
 discuss the basics of paging and how we might implement paging
 * [Lecture 12: Paging and Segmentation](https://www.youtube.com/watch?v=Jw8G4GdY-pc) ---
 Video yang menjelaskan tentang paging dan segmentasi dalam sistem operasi
+<br>
+<hr>
