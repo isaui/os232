@@ -1,4 +1,13 @@
 # WEEKLY 3 of 10 RANKS
+<<<<<<< Updated upstream
+ZCZC W05 Akmal76
+ZCZC W05 adamGhavi
+ZCZC W05 austinsusanto
+=======
+ZCZC W06 zuhdynadhif
+ZCZC W06 Akmal76
+ZCZC W06 DwikyAhmad
+>>>>>>> Stashed changes
 ZCZC W04 dimashn04
 ZCZC W04 belatijagad
 ZCZC W04 aryakdaniswara

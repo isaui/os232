@@ -30,5 +30,14 @@ Video 1 jam 15 menit yang menjelaskan memory management dalam sistem operasi
 discuss the basics of paging and how we might implement paging
 * [Lecture 12: Paging and Segmentation](https://www.youtube.com/watch?v=Jw8G4GdY-pc) ---
 Video yang menjelaskan tentang paging dan segmentasi dalam sistem operasi
+
+W05
+
+* [Page Faults & Page Fault Handling in Operating Systems | Page Fault Numerical Example | Thrashing](https://www.youtube.com/watch?v=Nif2TZ5Cohw&list=PLIY8eNdw5tW-BxRY0yK3fYTYVqytw8qhp&index=2) ---
+This video provides a comprehensive explanation of page faults and their handling within operating systems, offering a practical numerical example to illustrate the concept. It also discusses the phenomenon of thrashing, shedding light on the detrimental effects of excessive page faults on system performance.
+* [Optimal Page Replacement Algorithm with Example in OS - Memory Management](https://www.youtube.com/watch?v=L8BEoRRUVRE&list=PLIY8eNdw5tW-BxRY0yK3fYTYVqytw8qhp&index=5) ---
+This video delves into the Optimal Page Replacement Algorithm, explaining its operation and demonstrating it with a practical example in the context of memory management within operating systems. It offers a clear understanding of how this algorithm optimally selects pages for replacement.
+* [Least Recently Used (LRU) Page Replacement Algorithm in OS with Example Problem - Memory Management](https://www.youtube.com/watch?v=LCPFjNxQIVU&list=PLIY8eNdw5tW-BxRY0yK3fYTYVqytw8qhp&index=6) ---
+In this video, the Least Recently Used (LRU) Page Replacement Algorithm is thoroughly explained, and a practical example problem is presented to illustrate its application within memory management in operating systems. The video provides insights into how LRU selects pages for replacement based on their usage history.
 <br>
 <hr>
