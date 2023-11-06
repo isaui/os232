@@ -39,5 +39,14 @@ This video provides a comprehensive explanation of page faults and their handlin
 This video delves into the Optimal Page Replacement Algorithm, explaining its operation and demonstrating it with a practical example in the context of memory management within operating systems. It offers a clear understanding of how this algorithm optimally selects pages for replacement.
 * [Least Recently Used (LRU) Page Replacement Algorithm in OS with Example Problem - Memory Management](https://www.youtube.com/watch?v=LCPFjNxQIVU&list=PLIY8eNdw5tW-BxRY0yK3fYTYVqytw8qhp&index=6) ---
 In this video, the Least Recently Used (LRU) Page Replacement Algorithm is thoroughly explained, and a practical example problem is presented to illustrate its application within memory management in operating systems. The video provides insights into how LRU selects pages for replacement based on their usage history.
+
+W06
+
+* [Difference between Processes and Threads](https://www.youtube.com/watch?v=IKG1P4rgm54&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2&index=3) --- 
+The video provides a comprehensive overview of the fundamental distinctions between processes and threads in linux. It explores their unique characteristics, usage scenarios, and the advantages and disadvantages of each, offering valuable insights for developers and system architects.
+* [Deadlock in C](https://www.youtube.com/watch?v=LjWug2tvSBU&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2&index=19) ---
+The video "Deadlock in C" delves into the concept of deadlock in the context of C programming. It discusses the causes, detection, and prevention of deadlock situations, providing valuable insights for C programmers and developers.
+* [Parallelism vs Concurrency](https://www.youtube.com/watch?v=56OSQSoRR04&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2&index=27) --- 
+The video "Parallelism vs Concurrency" offers an insightful exploration of the distinctions between parallelism and concurrency in the world of computer science.
 <br>
 <hr>
