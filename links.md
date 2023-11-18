@@ -48,5 +48,13 @@ The video provides a comprehensive overview of the fundamental distinctions betw
 The video "Deadlock in C" delves into the concept of deadlock in the context of C programming. It discusses the causes, detection, and prevention of deadlock situations, providing valuable insights for C programmers and developers.
 * [Parallelism vs Concurrency](https://www.youtube.com/watch?v=56OSQSoRR04&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2&index=27) --- 
 The video "Parallelism vs Concurrency" offers an insightful exploration of the distinctions between parallelism and concurrency in the world of computer science.
+
+W07
+
+* [Semaphores](https://www.youtube.com/watch?v=XDIOC2EY5JE) --- This video provides an in-depth explanation of the concept and usage of semaphores in programming. You will gain an understanding of how semaphores are used to coordinate access to shared resources in a multiprocessing environment. This material is valuable for developers and systems professionals looking to grasp the semaphore mechanism in software development.
+
+* [Disadvantages of Semaphores](https://www.youtube.com/watch?v=2cGo2HdA0dM) --- This video discusses the weaknesses or issues that may arise when using semaphores in programming. You will learn about situations where semaphores may not be efficient or could lead to problems. This material offers insights for developers who want to understand potential constraints in using semaphores.
+
+* [The Dining Philosophers Problem](https://www.youtube.com/watch?v=XDIOC2EY5JE) --- This video illustrates The Dining Philosophers Problem, which is a classic example in the theory of synchronization and concurrency. You will see how this problem arises in a programming context and how semaphore-based solutions are used to address conflicts. The video is beneficial for those interested in understanding the fundamental concepts of synchronization in multiprocessing programming.
 <br>
 <hr>
