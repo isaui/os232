@@ -56,5 +56,14 @@ W07
 * [Disadvantages of Semaphores](https://www.youtube.com/watch?v=2cGo2HdA0dM) --- This video discusses the weaknesses or issues that may arise when using semaphores in programming. You will learn about situations where semaphores may not be efficient or could lead to problems. This material offers insights for developers who want to understand potential constraints in using semaphores.
 
 * [The Dining Philosophers Problem](https://www.youtube.com/watch?v=XDIOC2EY5JE) --- This video illustrates The Dining Philosophers Problem, which is a classic example in the theory of synchronization and concurrency. You will see how this problem arises in a programming context and how semaphore-based solutions are used to address conflicts. The video is beneficial for those interested in understanding the fundamental concepts of synchronization in multiprocessing programming.
+
+W08
+
+*[Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y) --- This video provides an overview and explanation of process synchronization in operating systems and concurrent programming. It covers various synchronization techniques used to coordinate multiple processes accessing shared resources. This material is beneficial for understanding how synchronization ensures data consistency and avoids conflicts in concurrent systems.
+
+*[Test and Set Lock](https://www.youtube.com/watch?v=5oZYS5dTrmk) --- This video delves into the Test and Set Lock, a low-level synchronization mechanism used in concurrent programming. It explains how Test and Set operations work and their significance in managing access to shared resources. Developers aiming to comprehend fundamental synchronization techniques will find this material informative.
+
+*[The Bounded Buffer Problem](https://www.youtube.com/watch?v=Qx3P2wazwI0) --- This video explores the Bounded Buffer Problem, a classical synchronization problem in computer science related to producer-consumer scenarios. It explains how this problem arises and how synchronization techniques such as semaphores or locks can be applied to solve it. The video is valuable for individuals seeking insights into handling synchronization challenges in concurrent programming.
+
 <br>
 <hr>
