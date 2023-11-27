@@ -65,6 +65,8 @@ W08
 
 * [The Bounded Buffer Problem](https://www.youtube.com/watch?v=Qx3P2wazwI0) --- This video explores the Bounded Buffer Problem, a classical synchronization problem in computer science related to producer-consumer scenarios. It explains how this problem arises and how synchronization techniques such as semaphores or locks can be applied to solve it. The video is valuable for individuals seeking insights into handling synchronization challenges in concurrent programming.
 
+W09
+
 *[Basics of OS(Storage Structure)](https://www.youtube.com/watch?v=YcRd3WMbXnE) --- This video discusses the fundamentals of Operating Systems (Storage Structure), providing an explanation of storage structure in operating systems. It's suitable for those seeking to understand the basic concepts of storage structure within the context of operating systems.
 
 *[Disk Scheduling](https://www.youtube.com/watch?v=ZKUBSqnwJjQ) --- This video dives into the concept of Disk Scheduling, a crucial aspect of operating systems and storage management. It explores how disk scheduling algorithms organize and optimize the process of accessing data on storage devices. The video provides insights into various disk scheduling algorithms like FCFS (First-Come, First-Served), SSTF (Shortest Seek Time First), SCAN, C-SCAN, and more, shedding light on their functionalities and applications within computer systems. It's beneficial for individuals seeking a deeper understanding of how data access and management are orchestrated within storage devices in computing environments.
